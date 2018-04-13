@@ -1,0 +1,6 @@
+,lhs,,rhs,support,confidence,lift,count
+[1],{baking powder},=>,{whole milk},0.009252669,0.522988506,2.046793456,91
+[2],"{other vegetables,oil}",=>,{whole milk},0.005083884,0.510204082,1.996759707,50
+[3],"{root vegetables,onions}",=>,{other vegetables},0.00569395,0.602150538,3.112007639,56
+[4],"{onions,whole milk}",=>,{other vegetables},0.006609049,0.546218487,2.822942104,65
+[5],"{other vegetables,hygiene articles}",=>,{whole milk},0.005185562,0.542553191,2.123362769,51
